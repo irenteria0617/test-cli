@@ -18,10 +18,6 @@ A simple Test
     GetListPokemon --type 1
 ![enter image description here](https://user-images.githubusercontent.com/9513390/129784419-11745cef-873a-4fdc-8f9d-e1a226554b66.png)
 
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
 ## Test
     npm run test
 ![enter image description here](https://user-images.githubusercontent.com/9513390/129783853-bfbfebb4-e1b9-4a10-bd75-b7df7a522048.png)
